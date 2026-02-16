@@ -1,6 +1,6 @@
 # Multimodal-Deepfake-Detection
 
-##Results:
+## Results:
 
 <img width="1886" height="1596" alt="Image" src="https://github.com/user-attachments/assets/d6fc83ac-437d-4454-9a41-7e445c57ed04" />
 
